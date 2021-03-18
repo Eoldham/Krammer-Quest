@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Wall
+comment1.params=locatedAtTop
+comment1.target=Wall(boolean)
+comment2.params=
+comment2.target=java.lang.String\ getCategory()
+comment3.params=
+comment3.target=char\ getSymbol()
+numComments=4

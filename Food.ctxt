@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ A\ simple\ subclass\ of\ Item\ that\ is\ food.\ Used\r\n\ to\ display\ to\ user\ the\ inventory\ screen.\r\n
+comment1.params=
+comment1.target=Food()
+comment2.params=
+comment2.target=java.lang.String\ getCategory()
+comment3.params=
+comment3.target=java.lang.String\ getType()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ eat()
+numComments=6

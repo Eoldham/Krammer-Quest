@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Just\ an\ abstract\ class\ with\ basic\ info\ about\ the\ item\ it\ holds.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getType()
+comment2.params=
+comment2.target=java.lang.String\ getCategory()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=char\ getSymbol()
+numComments=5

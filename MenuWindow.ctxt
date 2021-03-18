@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MenuWindow
+comment0.text=\r\n\ Displays\ a\ window\ with\ a\ demo\ image\ inside\ of\ it\r\n\ \r\n\ Variable\ Dictionary\:\r\n\ logo\ \ \ \ \ \ \ \ \ \ \ \ \ the\ subcomponent\ of\ the\ window\ holding\ the\ image\r\n\ imgLogoFilename\ \ path\ to\ find\ image\r\n\ imgLogo\ \ \ \ \ \ \ \ \ \ where\ the\ actual\ loaded\ image\ is\ stored\r\n\ LOGO_WIDTH\ \ \ \ \ \ \ static\ width\ of\ logo\ MUST\ BE\ IMAGE\ WIDTH\r\n\ LOGO_HEIGHT\ \ \ \ \ \ static\ height\ of\ logo\ MUST\ BE\ IMAGE\ HEIGHT\r\n
+comment1.params=backgroundMusic
+comment1.target=void\ displayWindow(SoundSystem)
+comment1.text=\r\n\ Basically\ finds\ and\ loads\ the\ image\ and\ sets\ up\ the\ components\r\n\ of\ the\ window\ including\ two\ buttons\ at\ the\ bottom\ and\ the\ logo\r\n\ panel.\r\n
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=evt
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=backgroundMusic
+comment4.target=void\ startUp(SoundSystem)
+numComments=5
