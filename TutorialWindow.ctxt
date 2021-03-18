@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TutorialWindow
+comment0.text=\r\n\ Displays\ a\ tutorial\ window\ with\ demo\ text\ inside\ of\ it\r\n\ \r\n\ Variable\ Dictionary\:\r\n\ canvas\ \ \ \ \ \ \ \ \ \ \ the\ subcomponent\ of\ the\ window\ holding\ the\ text\r\n\ tutorial\ \ \ \ \ \ \ \ \ the\ tutorial\ text\ to\ display\r\n\ menuButton\ \ \ \ \ \ \ button\ to\ go\ to\ menu\ window\r\n\ CANVAS_WIDTH\ \ \ \ \ static\ width\ of\ canvas\ MUST\ BE\ IMAGE\ WIDTH\ (I\ think?)\r\n\ CANVAS_HEIGHT\ \ \ \ static\ height\ of\ canvas\ MUST\ BE\ IMAGE\ height\ (I\ think?)\r\n
+comment1.params=musicPlayer
+comment1.target=void\ displayWindow(SoundSystem)
+comment1.text=\r\n\ Sets\ up\ tutorial\ window's\ components\ and\ shows\ them.\r\n
+comment2.params=evt
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=evt
+comment3.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment4.params=page
+comment4.target=void\ setTutorialBody(int)
+comment4.text=\r\n\ Sets\ the\ text\ line\ by\ line\ for\ the\ tutorial\ as\ an\ array\r\n
+comment5.params=text\ frameWidth\ g
+comment5.target=int\ centerStringX(java.lang.String,\ int,\ java.awt.Graphics)
+comment5.text=\r\n\ Finds\ the\ x\ coordinate\ needed\ to\ center\ a\ String\ in\ the\ window.\r\n
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Stage
+comment1.params=num
+comment1.target=Stage(int)
+comment2.params=
+comment2.target=void\ makeRooms()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=num
+comment4.target=Room\ getRoom(int)
+comment5.params=newRoom\ num
+comment5.target=void\ setRoom(Room,\ int)
+comment6.params=roomNum
+comment6.target=Room\ nextRoom(int)
+numComments=7
