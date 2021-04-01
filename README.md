@@ -7,16 +7,16 @@ monsters as you go.
 ## Preview:
 
 ## Instructions:
-  w- move up, move cursor up
-  a- move left, move cursor left
-  s- move down, move cursor down
-  d- move right, move cursor right
-  i- open/close inventory
-  enter- select, equip item
-  escape- close inventory
-  backspace- destroy item
+  w- move up, move cursor up <br>
+  a- move left, move cursor left <br>
+  s- move down, move cursor down <br>
+  d- move right, move cursor right <br>
+  i- open/close inventory <br>
+  enter- select, equip item <br>
+  escape- close inventory <br>
+  backspace- destroy item <br>
 
-## Author: 
+## Authors: 
 Emily Oldham <br>
 owlanne@udel.edu <br>
 Ben Snyder <br>
